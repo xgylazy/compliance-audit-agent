@@ -1,0 +1,106 @@
+{
+  "page": 4,
+  "content_types": ["table_of_contents"],
+  "fulltitle": null,
+  "other_info": null,
+  "table_of_contents": {
+    "items": [
+      {
+        "title": "9.2 个人信息共享、转让",
+        "children": []
+      },
+      {
+        "title": "9.3 收购、兼并、重组、破产时的个人信息转让",
+        "children": []
+      },
+      {
+        "title": "9.4 个人信息公开披露",
+        "children": []
+      },
+      {
+        "title": "9.5 共享、转让、公开披露个人信息时事先征得授权同意的例外",
+        "children": []
+      },
+      {
+        "title": "9.6 共同个人信息控制者",
+        "children": []
+      },
+      {
+        "title": "9.7 第三方接入管理",
+        "children": []
+      },
+      {
+        "title": "9.8 个人信息跨境传输",
+        "children": []
+      },
+      {
+        "title": "10 个人信息安全事件处置",
+        "children": [
+          {
+            "title": "10.1 个人信息安全事件应急处置和报告",
+            "children": []
+          },
+          {
+            "title": "10.2 安全事件告知",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "11 组织的个人信息安全管理要求",
+        "children": [
+          {
+            "title": "11.1 明确责任部门与人员",
+            "children": []
+          },
+          {
+            "title": "11.2 个人信息安全工程",
+            "children": []
+          },
+          {
+            "title": "11.3 个人信息处理活动记录",
+            "children": []
+          },
+          {
+            "title": "11.4 开展个人信息安全影响评估",
+            "children": []
+          },
+          {
+            "title": "11.5 数据安全能力",
+            "children": []
+          },
+          {
+            "title": "11.6 人员管理与培训",
+            "children": []
+          },
+          {
+            "title": "11.7 安全审计",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "附录A（资料性附录）个人信息示例",
+        "children": []
+      },
+      {
+        "title": "附录B（资料性附录）个人敏感信息判定",
+        "children": []
+      },
+      {
+        "title": "附录C（资料性附录）实现个人信息主体自主意愿的方法",
+        "children": []
+      },
+      {
+        "title": "附录D（资料性附录）个人信息保护政策模板",
+        "children": []
+      },
+      {
+        "title": "参考文献",
+        "children": []
+      }
+    ]
+  },
+  "may_be_last_page_semantics_text": null,
+  "sections": null
+}

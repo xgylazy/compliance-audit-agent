@@ -1,0 +1,96 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "page_analysis.schema.json",
+  "title": "page_analysis/page_N.json — 单页语义分析记录（信封格式）",
+  "description": "每一页必须恰好有一条记录，文件名 page_N 中的 N 必须与 page 字段一致。空白页由代码在 Stage 0 确定性判定（零文本行），不调用 LLM，直接生成 content_types: [\"blank_page\"] 且所有 payload 为 null 的记录。正文延续页（本页无新标题、无特殊内容）的 content_types 为空数组且所有 payload 为 null。一致性规则：content_types 必须与各 payload 的非空情况严格对应——含 blank_page 当且仅当全部 payload 为 null；不含 blank_page 时，每个 content_types 元素必须有对应的非空 payload（fulltitle↔fulltitle, table_of_contents↔table_of_contents, sections↔sections 或 may_be_last_page_semantics_text）。",
+  "type": "object",
+  "required": ["page", "content_types"],
+  "additionalProperties": false,
+  "properties": {
+    "page": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "PDF 页码，必须与文件名中的 N 一致。页码只在此处出现一次，payload 内不得重复记录页码。"
+    },
+    "content_types": {
+      "type": "array",
+      "items": {
+        "enum": ["fulltitle", "table_of_contents", "blank_page", "sections"]
+      },
+      "uniqueItems": true,
+      "description": "本页包含的内容类型。空数组 = 本页是正文延续页（无新内容起始）。"
+    },
+    "fulltitle": {
+      "type": ["string", "null"],
+      "description": "封面/扉页全文标题。仅 fulltitle 页非空。"
+    },
+    "other_info": {
+      "type": ["object", "null"],
+      "description": "扉页结构化附加信息（标准号、发布/实施日期、归口单位等）。仅 fulltitle 页非空。"
+    },
+    "table_of_contents": {
+      "type": ["object", "null"],
+      "description": "本页目录条目片段（只含本页打印的条目，跨页续页各自成片段，由归并阶段拼接）。注意：不含 page 字段，文档级页码数组由归并阶段生成。",
+      "properties": {
+        "items": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/tocNode" }
+        }
+      },
+      "required": ["items"],
+      "additionalProperties": false
+    },
+    "may_be_last_page_semantics_text": {
+      "type": ["string", "null"],
+      "description": "本页开头承接上一页某个 section 的延续文本（跨页尾巴）。仅 sections 页可能非空。"
+    },
+    "sections": {
+      "type": ["array", "null"],
+      "description": "本页新开始的 section（text 为本页页内文本，跨页 section 的后续页文本不在此处）。仅 sections 页非空。",
+      "items": { "$ref": "#/definitions/sectionNode" }
+    }
+  },
+  "definitions": {
+    "tocNode": {
+      "type": "object",
+      "required": ["title", "children"],
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "去掉点线引导与页码后的条目原文。"
+        },
+        "children": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/tocNode" }
+        }
+      }
+    },
+    "sectionNode": {
+      "type": "object",
+      "required": ["title", "pages"],
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "正文标题行原文。术语条目（如 3.x）标题行只有编号，术语名并入 text 首行。"
+        },
+        "pages": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 1 },
+          "minItems": 1,
+          "description": "该 section 内容所在的页码（分片层通常为单个起始页）。"
+        },
+        "text": {
+          "type": "string",
+          "description": "本 section 的正文（分片层 = 本页页内文本；合并层 = 跨页拼接修复后的完整文本）。"
+        },
+        "children": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/sectionNode" },
+          "description": "子节点。叶子节点可省略（评测时缺省视为空数组）。"
+        }
+      }
+    }
+  }
+}

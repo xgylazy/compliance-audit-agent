@@ -1,6 +1,9 @@
 {
+  "page": 3,
+  "content_types": ["table_of_contents"],
+  "fulltitle": null,
+  "other_info": null,
   "table_of_contents": {
-    "page": [3],
     "items": [
       {
         "title": "前言",
@@ -156,5 +159,7 @@
         ]
       }
     ]
-  }
+  },
+  "may_be_last_page_semantics_text": null,
+  "sections": null
 }

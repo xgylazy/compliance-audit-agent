@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "final.schema.json",
+  "title": "final_output/final.json — 文档级汇总输出",
+  "description": "由 page_analysis 分片按 Agent.md 第 5.2 节归并规则纯代码汇总而成，不经过 LLM。round-trip 校验：1..N 每页必须恰好落入 fulltitle 页 / table_of_contents.page / blank_pages / sections 四个桶之一。",
+  "type": "object",
+  "required": ["fulltitle", "table_of_contents", "blank_pages", "sections"],
+  "additionalProperties": false,
+  "properties": {
+    "fulltitle": {
+      "type": "string",
+      "description": "封面/扉页全文标题。"
+    },
+    "other_info": {
+      "type": "object",
+      "description": "扉页结构化附加信息。可选；当前金标未输出。"
+    },
+    "table_of_contents": {
+      "type": "object",
+      "required": ["page", "items"],
+      "additionalProperties": false,
+      "properties": {
+        "page": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 1 },
+          "uniqueItems": true,
+          "description": "目录所在的页码，升序。可跨页（如本样本 [3, 4]）。"
+        },
+        "items": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/tocNode" }
+        }
+      }
+    },
+    "blank_pages": {
+      "type": "array",
+      "items": { "type": "integer", "minimum": 1 },
+      "uniqueItems": true,
+      "description": "空白页页码，升序。由 Stage 0 代码判定（零文本行），不依赖 LLM。"
+    },
+    "sections": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/sectionNode" }
+    }
+  },
+  "definitions": {
+    "tocNode": {
+      "type": "object",
+      "required": ["title", "children"],
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "去掉点线引导与页码后的条目原文。"
+        },
+        "children": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/tocNode" }
+        }
+      }
+    },
+    "sectionNode": {
+      "type": "object",
+      "required": ["title", "pages"],
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "正文标题行原文。术语条目（如 3.x）标题行只有编号，术语名并入 text 首行。"
+        },
+        "pages": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 1 },
+          "minItems": 1,
+          "description": "该 section 内容所在的页码，升序，含跨页延续页。"
+        },
+        "text": {
+          "type": "string",
+          "description": "跨页拼接并语义修复后的完整正文。评测时缺省视为空字符串。"
+        },
+        "children": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/sectionNode" },
+          "description": "子节点。顶层节点一律携带（可为空数组）；叶子节点可省略（评测时缺省视为空数组）。"
+        }
+      }
+    }
+  }
+}
