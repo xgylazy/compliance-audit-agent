@@ -1,0 +1,353 @@
+{
+  "page": 39,
+  "lines": [
+    {
+      "y": 43.751014709472656,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header"
+    },
+    {
+      "y": 105.01995849609375,
+      "size": null,
+      "bold": null,
+      "text": "参考文献",
+      "src": "figure",
+      "role": "figure_text"
+    },
+    {
+      "y": 135.66317749023438,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[1] GB/Z 28828—2012 信息安全技术 公共及商用服务信息系统个人信息保护指南",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 151.26321411132812,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[2] GB/T 32921—2016 信息安全技术 信息技术产品供应方行为安全准则",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 166.86318969726562,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[3] 中华人民共和国网络安全法（2016 年11 月7 日第十二届全国人民代表大会常务委员",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 182.94891357421875,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "会第二十四次会议通过）",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 198.06320190429688,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[4] 全国人大常委会关于维护互联网安全的决定（2000 年12 月28 日第九届全国人民代表",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 214.14892578125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "大会常务委员会第十九次会议通过）",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 229.26321411132812,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[5] 全国人大常委会关于加强网络信息保护的决定（2012 年12 月28 日第十一届全国人民",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 245.34893798828125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "代表大会常务委员会第三十次会议通过）",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 260.4631652832031,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[6] 中华人民共和国电子商务法（2018 年8 月31 日第十三届全国人民代表大会常务委员",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 276.57891845703125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "会第五次会议通过）",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 291.6932067871094,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[7] 电信和互联网个人信息主体个人信息保护规定（2013 年7 月16 日中华人民共和国工",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 307.7789306640625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "业和信息化部令第24 号公布）",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 322.8931884765625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[8] 中华人民共和国刑法修正案（七）（2009 年2 月28 日第十一届全国人民代表大会常",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 338.97894287109375,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "务委员会第七次会议通过）",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 354.09320068359375,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[9] 中华人民共和国刑法修正案（九）（2015 年8 月29 日第十二届全国人民代表大会常",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 370.1789245605469,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "务委员会第十六次会议通过）",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 385.2931823730469,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[10] 国家网络安全事件应急预案（2017 年1 月10 日中央网络安全和信息化领导小组办公",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 401.3789367675781,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "室〔2017〕4 号文公布）",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 416.4931945800781,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[11] ISO/IEC 29100：2011 Information technology—Security techniques—Privacy",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 432.5789489746094,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "framework",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 447.69317626953125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[12] ISO/IEC 29101：2013 Information technology—Security techniques—Privacy",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 463.7989501953125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "architecture framework",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 478.9131774902344,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[13] ISO/IEC 29134：2017 Information technology—Security techniques—Guidelines",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 494.9989318847656,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "for privacy impact assessment",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 510.1131896972656,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[14] ISO/IEC 29151：2017 Information technology—Security techniques—Code of",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 526.198974609375,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "practice for personally identifiable information protection",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 541.3131713867188,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[15] ISO/IEC DIS 29184 Information technology—Online privacy notices and consent",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 556.9131469726562,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[16] APEC Privacy Framework，APEC，2005",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 572.5131225585938,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[17] Consumer Privacy Bill of Rights Act of 2015 (Administration Discussion Draft)，",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 588.5989379882812,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "White House，2015",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 603.7131958007812,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[18] CWA 16113：2012 Personal data protection good practices",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 619.3131713867188,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[19] EU General Data Protection Regulation，2015",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 634.9131469726562,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[20] EU-U.S Privacy Shield，2016",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 650.5131225585938,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[21] NIST SP800-53 Rev. 4 ：2013 Security and privacy controls for federal",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 666.62890625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "information systems and organizations",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 681.7431640625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[22] NIST SP800-122：2010 Guide to protecting the confidentiality of personally",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 697.8289184570312,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "identifiable information (PII)",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 712.9431762695312,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[23] NISTIR 8062：2017 An introduction to privacy engineering and risk management",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 729.0289306640625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "for federal systems",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 744.13916015625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "[24] The OECD Privacy Framework，OECD，2013",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 781.9649658203125,
+      "size": 9.0,
+      "bold": false,
+      "text": "37",
+      "src": "line",
+      "role": "footer"
+    }
+  ],
+  "figures": 1,
+  "raw_line_count": 42,
+  "line_count": 42,
+  "is_blank": false
+}

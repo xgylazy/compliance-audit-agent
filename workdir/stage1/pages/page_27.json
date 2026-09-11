@@ -1,0 +1,419 @@
+{
+  "page": 27,
+  "lines": [
+    {
+      "y": 43.751014709472656,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 105.01995849609375,
+      "size": null,
+      "bold": null,
+      "text": "附 录 C",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 105.01995849609375,
+      "size": null,
+      "bold": null,
+      "text": "（资料性附录）",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 105.01995849609375,
+      "size": null,
+      "bold": null,
+      "text": "实现个人信息主体自主意愿的方法",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 167.34893798828125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "C.1 概述",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 190.45663452148438,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "保障个人信息主体自主意愿包括两个方面：一是不强迫个人信息主体接受多项业务",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 206.05661010742188,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "功能；二是保障个人信息主体对个人信息收集、使用的知情权和授权同意的权利。个人",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 221.65658569335938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "信息控制者，尤其是移动互联网应用程序运营者，可通过以下方式实现。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 245.34893798828125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "C.2 区分基本业务功能和扩展业务功能",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 268.4566345214844,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "保障个人信息主体选择同意的权利，首先需划分产品或服务的基本业务功能和扩展",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 284.0866394042969,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "业务功能，划分的方法如下：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 299.17877197265625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 应根据个人信息主体选择、使用所提供产品或服务的根本期待和最主要的需",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 315.2865905761719,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "求，划定产品或服务的基本业务功能；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 331.91900634765625,
+      "size": 9.0,
+      "bold": false,
+      "text": "注1：个人信息主体之所以识别或挑选某项产品或服务，主要依据个人信息控制者对所提供产品或服",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 347.51898193359375,
+      "size": 9.0,
+      "bold": false,
+      "text": "务开展的市场推广和商业定位、产品或服务本身的名称、在应用商店中的描述、所属的应用类型",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 363.1189880371094,
+      "size": 9.0,
+      "bold": false,
+      "text": "等因素。因此，个人信息控制者应根据一般个人信息主体对上述因素的最可能的认识和理解，而",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 378.718994140625,
+      "size": 9.0,
+      "bold": false,
+      "text": "非自身想法来确定个人信息主体的主要需求和期待来划定基本业务功能。一般来说，如果产品或",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 394.3190002441406,
+      "size": 9.0,
+      "bold": false,
+      "text": "服务不提供基本业务功能，个人信息主体将不会选择使用该产品或服务。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 409.91900634765625,
+      "size": 9.0,
+      "bold": false,
+      "text": "注2：随着产品或服务的迭代、拓展、升级等，基本业务功能可能需要随之重新划分。个人信息控制",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 425.51898193359375,
+      "size": 9.0,
+      "bold": false,
+      "text": "者仍可根据一般个人信息主体最可能的认识和理解，来重新划定基本业务功能。但个人信息控制",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 441.1189880371094,
+      "size": 9.0,
+      "bold": false,
+      "text": "者不宜短时间内大范围改变基本业务功能和扩展业务功能的划分。在重新划分后，个人信息控制",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 455.89434814453125,
+      "size": 9.960000038146973,
+      "bold": false,
+      "text": "者宜再次告知并征得个人信息主体对基本业务功能收集、使用其个人信息的明示同意。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 470.79876708984375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 不应将改善服务质量、提升个人信息主体体验、研发新产品单独作为基本业务",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 486.9066162109375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "功能；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 501.998779296875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 将产品或服务所提供的基本业务功能之外的其他功能，划定为扩展业务功能。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 526.198974609375,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "C.3 基本业务功能的告知和明示同意",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 549.2610473632812,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "基本业务功能的告知和明示同意的实现方法如下：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 564.3988037109375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 在基本业务功能开启前（如个人信息主体初始安装、首次使用、注册账号等），",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 580.5066528320312,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "应通过交互界面或设计（如弹窗、文字说明、填写框、提示条、提示音等形式），",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 596.1066284179688,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "向个人信息主体告知基本业务功能所必要收集的个人信息类型，以及个人信息",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 611.7066650390625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "主体拒绝提供或拒绝同意收集将造成的影响，并通过个人信息主体对信息收集",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 627.306640625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "主动作出肯定性动作（如勾选、点击“同意”或“下一步”等）征得其明示同",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 642.9066772460938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "意；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 659.5689697265625,
+      "size": 9.0,
+      "bold": false,
+      "text": "注：当产品或服务所提供的基本业务功能无需一次性全部开启时，宜根据个人信息主体的具体使用行",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 675.1689453125,
+      "size": 9.0,
+      "bold": false,
+      "text": "为逐步开启基本业务功能，并即时完成a)的告知要求。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 689.228759765625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 个人信息主体不同意收集基本业务功能所必要收集的个人信息的，个人信息控",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 705.336669921875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "制者可拒绝向个人信息主体提供该业务功能；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 720.4287719726562,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) a）所要求的交互界面或设计应方便个人信息主体再次访问及更改其同意的范",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 736.5326538085938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "围。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 751.4126586914062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "注：上述要求的实现方式可参考C.5。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 781.9649658203125,
+      "size": 9.0,
+      "bold": false,
+      "text": "25",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 1,
+  "raw_line_count": 38,
+  "line_count": 38,
+  "is_blank": false
+}

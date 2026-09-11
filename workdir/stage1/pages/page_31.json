@@ -1,0 +1,749 @@
+{
+  "page": 31,
+  "lines": [
+    {
+      "y": 102.0,
+      "size": null,
+      "bold": null,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 189.0,
+      "size": null,
+      "bold": null,
+      "text": "表C.1 （续）",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 251.0,
+      "size": null,
+      "bold": null,
+      "text": "功能界面模板",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 251.5,
+      "size": null,
+      "bold": null,
+      "text": "说明",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 285.5,
+      "size": null,
+      "bold": null,
+      "text": "10、与第三方共享、转",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 310.5,
+      "size": null,
+      "bold": null,
+      "text": "让和公开披露的情形可",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 318.5,
+      "size": null,
+      "bold": null,
+      "text": "页面三：个人信息的共享、转让、公开披露",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 334.5,
+      "size": null,
+      "bold": null,
+      "text": "能因业务功能复杂的原",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 358.5,
+      "size": null,
+      "bold": null,
+      "text": "因变得多样化。个人信",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 366.5,
+      "size": null,
+      "bold": null,
+      "text": "x",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 383.5,
+      "size": null,
+      "bold": null,
+      "text": "息控制者可酌情在此页",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 408.0,
+      "size": null,
+      "bold": null,
+      "text": "面增加共享、转让、公",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 424.5,
+      "size": null,
+      "bold": null,
+      "text": "一、关于个人信息的共享",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 431.5,
+      "size": null,
+      "bold": null,
+      "text": "开披露的场景，或在个",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 456.0,
+      "size": null,
+      "bold": null,
+      "text": "人信息主体使用过程中",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 458.0,
+      "size": null,
+      "bold": null,
+      "text": "为实现您刚才所选的业务功能，并提升您的使用体验，我们会与我们的关联",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 474.0,
+      "size": null,
+      "bold": null,
+      "text": "公司【赋值：个人信息控制者定义的关联公司的类别】和授权合作伙伴【赋",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 480.5,
+      "size": null,
+      "bold": null,
+      "text": "以弹窗等形式单独告",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 490.0,
+      "size": null,
+      "bold": null,
+      "text": "值：个人信息控制者定义的授权合作伙伴的类别】共享您的个人信息。我们",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 504.5,
+      "size": null,
+      "bold": null,
+      "text": "知，并征得同意。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 506.0,
+      "size": null,
+      "bold": null,
+      "text": "只会共享必要的个人信息，并会严格限制他们使用您个人信息的行为。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 539.5,
+      "size": null,
+      "bold": null,
+      "text": "同意",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 539.5,
+      "size": null,
+      "bold": null,
+      "text": "不同意",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 550.5,
+      "size": null,
+      "bold": null,
+      "text": "11、数据安全能力指个",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 573.0,
+      "size": null,
+      "bold": null,
+      "text": "在【赋值：个人信息控制者定义的目的】时，我们将与【赋值：个人信息控",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 574.5,
+      "size": null,
+      "bold": null,
+      "text": "人信息控制者保护个人",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 589.0,
+      "size": null,
+      "bold": null,
+      "text": "制者定义的第三方】共享您的个人信息【赋值：个人信息控制者定义的个人",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 599.5,
+      "size": null,
+      "bold": null,
+      "text": "信息保密性、完整性和",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 605.0,
+      "size": null,
+      "bold": null,
+      "text": "信息类型】。请您选择是否同意。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 623.5,
+      "size": null,
+      "bold": null,
+      "text": "可用性的能力，个人信",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 634.0,
+      "size": null,
+      "bold": null,
+      "text": "同意",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 634.5,
+      "size": null,
+      "bold": null,
+      "text": "不同意",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 647.5,
+      "size": null,
+      "bold": null,
+      "text": "息控制者可以通过开展",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 665.0,
+      "size": null,
+      "bold": null,
+      "text": "涉及到您的个人敏感信息时，我们会在共享前，单独征得您的授权同意。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 673.0,
+      "size": null,
+      "bold": null,
+      "text": "相关的国家标准合规工",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 697.0,
+      "size": null,
+      "bold": null,
+      "text": "作证明其数据安全能",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 721.5,
+      "size": null,
+      "bold": null,
+      "text": "力，并将相关证明以链",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 722.5,
+      "size": null,
+      "bold": null,
+      "text": "二、关于个人信息转让、公开披露",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 745.0,
+      "size": null,
+      "bold": null,
+      "text": "接形式向个人信息主体",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 754.0,
+      "size": null,
+      "bold": null,
+      "text": "在【赋值：个人信息控制者定义的目的】时，我们将与【赋值：个人信息控",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 769.5,
+      "size": null,
+      "bold": null,
+      "text": "展示。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 770.0,
+      "size": null,
+      "bold": null,
+      "text": "制者定义的第三方】转让您的个人信息，且我们将不再保存任何副本。请您",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 786.5,
+      "size": null,
+      "bold": null,
+      "text": "选择是否同意。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 815.5,
+      "size": null,
+      "bold": null,
+      "text": "12、个人信息控制者应",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 816.5,
+      "size": null,
+      "bold": null,
+      "text": "同意",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 816.5,
+      "size": null,
+      "bold": null,
+      "text": "不同意",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 839.5,
+      "size": null,
+      "bold": null,
+      "text": "向个人信息主体提供针",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 852.0,
+      "size": null,
+      "bold": null,
+      "text": "在【赋值：个人信息控制者定义的目的】时，我们将公开披露您的个人信",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 864.5,
+      "size": null,
+      "bold": null,
+      "text": "对处理规则的答疑渠",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 868.0,
+      "size": null,
+      "bold": null,
+      "text": "息。请您选择是否同意。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 888.5,
+      "size": null,
+      "bold": null,
+      "text": "道，如果个人信息主体",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 900.5,
+      "size": null,
+      "bold": null,
+      "text": "不同意",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 901.0,
+      "size": null,
+      "bold": null,
+      "text": "同意",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 912.5,
+      "size": null,
+      "bold": null,
+      "text": "不认可其处理规则，可",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 936.5,
+      "size": null,
+      "bold": null,
+      "text": "以选择不继续使用该产",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 938.0,
+      "size": null,
+      "bold": null,
+      "text": "涉及到您的个人敏感信息时，我们会在转让、公开披露前，单独征得您的授权同意。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 962.0,
+      "size": null,
+      "bold": null,
+      "text": "品或服务。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 993.0,
+      "size": null,
+      "bold": null,
+      "text": "安全能力：我们所具备的数据安全能力为【赋值：个人信息控制者定义的数据安全",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1008.0,
+      "size": null,
+      "bold": null,
+      "text": "13、应向个人信息主体",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1009.0,
+      "size": null,
+      "bold": null,
+      "text": "能力】合规证明。如果发生安全事件导致您的个人信息遭泄露、损毁、篡改、丢失",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1025.5,
+      "size": null,
+      "bold": null,
+      "text": "等，我们会及时通知您，并提供补救的措施。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1031.5,
+      "size": null,
+      "bold": null,
+      "text": "告知与个人信息控制者",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1055.0,
+      "size": null,
+      "bold": null,
+      "text": "联系的方式。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1064.5,
+      "size": null,
+      "bold": null,
+      "text": "关于个人信息的更多处理规则，请访问我们的隐私政策以了解更详细的情况。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1091.5,
+      "size": null,
+      "bold": null,
+      "text": "隐私政策",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1108.5,
+      "size": null,
+      "bold": null,
+      "text": "14、应明示个人信息保",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1129.0,
+      "size": null,
+      "bold": null,
+      "text": "如您对上述说明存在疑问，可与我们的个人信息保护机构取得联系。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1132.5,
+      "size": null,
+      "bold": null,
+      "text": "护政策的链接，以便个",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1154.0,
+      "size": null,
+      "bold": null,
+      "text": "联系方式",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1157.5,
+      "size": null,
+      "bold": null,
+      "text": "人信息主体查阅。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1189.0,
+      "size": null,
+      "bold": null,
+      "text": "上一页",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1189.5,
+      "size": null,
+      "bold": null,
+      "text": "取消",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1190.0,
+      "size": null,
+      "bold": null,
+      "text": "完成",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1637.0,
+      "size": null,
+      "bold": null,
+      "text": "29",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 0,
+  "raw_line_count": 74,
+  "line_count": 74,
+  "is_blank": false
+}

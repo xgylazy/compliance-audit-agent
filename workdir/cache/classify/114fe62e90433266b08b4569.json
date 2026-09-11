@@ -1,0 +1,24 @@
+{
+  "page": 1,
+  "content_types": [
+    "fulltitle"
+  ],
+  "fulltitle": "信息安全技术 个人信息安全规范",
+  "other_info": {
+    "standard_number": "GB/T 35273—2020",
+    "replaces": "GB/T 35273-2017",
+    "ics": "35.040",
+    "classification": "L80",
+    "document_type": "中华人民共和国国家标准",
+    "english_title": "Information security technology — Personal information security specification",
+    "publish_date": "2020-03-06",
+    "implementation_date": "2020-10-01",
+    "issuing_authorities": [
+      "国家市场监督管理总局",
+      "国家标准化管理委员会"
+    ]
+  },
+  "table_of_contents": null,
+  "may_be_last_page_semantics_text": null,
+  "sections": null
+}

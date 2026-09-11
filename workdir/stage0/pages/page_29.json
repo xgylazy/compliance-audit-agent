@@ -1,0 +1,457 @@
+{
+  "page": 29,
+  "lines": [
+    {
+      "y": 102.0,
+      "size": null,
+      "bold": null,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header"
+    },
+    {
+      "y": 185.5,
+      "size": null,
+      "bold": null,
+      "text": "表C.1 交互式功能界面模板",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 243.0,
+      "size": null,
+      "bold": null,
+      "text": "功能界面模板",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 243.5,
+      "size": null,
+      "bold": null,
+      "text": "说明",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 278.5,
+      "size": null,
+      "bold": null,
+      "text": "1、为向个人信息主体清",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 302.5,
+      "size": null,
+      "bold": null,
+      "text": "晰展示收集个人信息的",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 318.0,
+      "size": null,
+      "bold": null,
+      "text": "页面一：基本业务功能收集的个人信息说明",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 327.5,
+      "size": null,
+      "bold": null,
+      "text": "目的、种类等，并分情",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 351.5,
+      "size": null,
+      "bold": null,
+      "text": "形征得个人信息主体同",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 369.0,
+      "size": null,
+      "bold": null,
+      "text": "x",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 375.5,
+      "size": null,
+      "bold": null,
+      "text": "意。建议个人信息控制",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 401.0,
+      "size": null,
+      "bold": null,
+      "text": "者采用分阶段、分窗口、",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 425.0,
+      "size": null,
+      "bold": null,
+      "text": "分屏幕等方式向个人信",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 448.0,
+      "size": null,
+      "bold": null,
+      "text": "息主体展示左侧模板中",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 454.5,
+      "size": null,
+      "bold": null,
+      "text": "本产品（或服务）的基本业务功能为：",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 472.5,
+      "size": null,
+      "bold": null,
+      "text": "的功能界面。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 475.0,
+      "size": null,
+      "bold": null,
+      "text": "【赋值：个人信息控制者定义的基本业务功能及功能描述】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 516.5,
+      "size": null,
+      "bold": null,
+      "text": "一、为完成基本业务功能所需，您需要填写以下个人信息：",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 518.5,
+      "size": null,
+      "bold": null,
+      "text": "2、个人信息控制者需明",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 543.5,
+      "size": null,
+      "bold": null,
+      "text": "确定义其产品或服务的",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 564.0,
+      "size": null,
+      "bold": null,
+      "text": "文本输入框",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 564.5,
+      "size": null,
+      "bold": null,
+      "text": "【赋值:个人信息控制者定义的个人信息名称】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 567.5,
+      "size": null,
+      "bold": null,
+      "text": "基本业务功能，识别其",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 591.5,
+      "size": null,
+      "bold": null,
+      "text": "所需收集的个人信息。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 595.5,
+      "size": null,
+      "bold": null,
+      "text": "【赋值:个人信息控制者定义的个人信息名称】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 596.5,
+      "size": null,
+      "bold": null,
+      "text": "文本输入框",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 637.5,
+      "size": null,
+      "bold": null,
+      "text": "3、左侧模板中的赋值需",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 657.5,
+      "size": null,
+      "bold": null,
+      "text": "二、为完成基本业务功能所需，我们还会自动采集以下个人信息：",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 662.5,
+      "size": null,
+      "bold": null,
+      "text": "要个人信息控制者根据",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 687.0,
+      "size": null,
+      "bold": null,
+      "text": "实际情形给出，且内容",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 707.5,
+      "size": null,
+      "bold": null,
+      "text": "【赋值：个人信息控制者定义的个人信息名称】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 711.0,
+      "size": null,
+      "bold": null,
+      "text": "应清楚明白易懂，不应",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 724.5,
+      "size": null,
+      "bold": null,
+      "text": "V",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 725.0,
+      "size": null,
+      "bold": null,
+      "text": "【赋值：个人信息控制者定义的个人信息名称】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 734.5,
+      "size": null,
+      "bold": null,
+      "text": "使用概括性、模糊性语",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 759.0,
+      "size": null,
+      "bold": null,
+      "text": "句描述所收集的个人信",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 783.5,
+      "size": null,
+      "bold": null,
+      "text": "息。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 801.0,
+      "size": null,
+      "bold": null,
+      "text": "如您选择不提供或不同意我们采集、使用以上这些个人信息，将导",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 821.0,
+      "size": null,
+      "bold": null,
+      "text": "致本产品（或服务）无法正常运行，我们将无法为您服务。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 829.0,
+      "size": null,
+      "bold": null,
+      "text": "4、个人信息控制者可结",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 853.5,
+      "size": null,
+      "bold": null,
+      "text": "合实际的产品或服务形",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 878.5,
+      "size": null,
+      "bold": null,
+      "text": "态，考虑适宜、便捷等",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 884.0,
+      "size": null,
+      "bold": null,
+      "text": "商业广告：我们可能会将您的个人信息用于向您推送您感兴趣的商业广",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 901.5,
+      "size": null,
+      "bold": null,
+      "text": "告。您可以通过以下方式退订商业广告【赋值：个人信息控制者定义的操",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 902.5,
+      "size": null,
+      "bold": null,
+      "text": "因素实现左侧模板中的",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 919.5,
+      "size": null,
+      "bold": null,
+      "text": "作】。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 927.5,
+      "size": null,
+      "bold": null,
+      "text": "功能。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 973.0,
+      "size": null,
+      "bold": null,
+      "text": "5、个人信息控制者在实",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 978.0,
+      "size": null,
+      "bold": null,
+      "text": "我已知晓本产品（或服务）的基本业务功能收集上述",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 997.0,
+      "size": null,
+      "bold": null,
+      "text": "现左侧功能界面时，“勾",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 998.0,
+      "size": null,
+      "bold": null,
+      "text": "个人信息，并同意对其的收集、使用行为。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1021.5,
+      "size": null,
+      "bold": null,
+      "text": "选处”不应采用预填写",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1045.5,
+      "size": null,
+      "bold": null,
+      "text": "的方式。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1047.0,
+      "size": null,
+      "bold": null,
+      "text": "取消",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1047.0,
+      "size": null,
+      "bold": null,
+      "text": "下一页",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1637.5,
+      "size": null,
+      "bold": null,
+      "text": "27",
+      "src": "line",
+      "role": "footer"
+    }
+  ],
+  "figures": 0,
+  "raw_line_count": 56,
+  "line_count": 56,
+  "is_blank": false
+}

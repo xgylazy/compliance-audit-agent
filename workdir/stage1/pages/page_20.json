@@ -1,0 +1,429 @@
+{
+  "page": 20,
+  "lines": [
+    {
+      "y": 42.98099899291992,
+      "size": 9.0,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 73.76881408691406,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 与公共安全、公共卫生、重大公共利益直接相关的；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 89.38880920410156,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "d) 与刑事侦查、起诉、审判和判决执行等直接相关的；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 104.98878479003906,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "e) 出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 120.74331665039062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本人授权同意的；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 136.1887969970703,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "f) 个人信息主体自行向社会公众公开的个人信息；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 151.7887725830078,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "g) 从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 167.89663696289062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "等渠道。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 191.58892822265625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "9.6 共同个人信息控制者",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 214.69662475585938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "对个人信息控制者的要求包括：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 229.7887725830078,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 当个人信息控制者与第三方为共同个人信息控制者时，个人信息控制者应通过",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 245.89663696289062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "合同等形式与第三方共同确定应满足的个人信息安全要求，以及在个人信息安",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 261.1433410644531,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "全方面自身和第三方应分别承担的责任和义务，并向个人信息主体明确告知；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 276.6187744140625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 如未向个人信息主体明确告知第三方身份，以及在个人信息安全方面自身和第",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 292.7265930175781,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "三方应分别承担的责任和义务，个人信息控制者应承担因第三方引起的个人信",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 307.9733581542969,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "息安全责任。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 324.958984375,
+      "size": 9.0,
+      "bold": false,
+      "text": "注：如个人信息控制者在提供产品或服务的过程中部署了收集个人信息的第三方插件（例如，网站经",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 340.5589904785156,
+      "size": 9.0,
+      "bold": false,
+      "text": "营者与在其网页或应用程序中部署统计分析工具、软件开发工具包SDK、调用地图API 接口），",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 356.15899658203125,
+      "size": 9.0,
+      "bold": false,
+      "text": "且该第三方并未单独向个人信息主体征得收集个人信息的授权同意，则个人信息控制者与该第三",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 370.0810241699219,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "方在个人信息收集阶段为共同个人信息控制者。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 394.4189453125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "9.7 第三方接入管理",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 417.526611328125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "当个人信息控制者在其产品或服务中接入具备收集个人信息功能的第三方产品或",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 433.1266174316406,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "服务且不适用9.1和9.6时，对个人信息控制者的要求包括：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 448.2187805175781,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 建立第三方产品或服务接入管理机制和工作流程，必要时应建立安全评估等机",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 463.99334716796875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "制设置接入条件；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 479.43878173828125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 应与第三方产品或服务提供者通过合同等形式明确双方的安全责任及应实施",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 495.1933288574219,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "的个人信息安全措施；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 510.6387939453125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 应向个人信息主体明确标识产品或服务由第三方提供；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 526.23876953125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "d) 应妥善留存平台第三方接入有关合同和管理记录，确保可供相关方查阅；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 541.8387451171875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "e) 应要求第三方根据本标准相关要求向个人信息主体征得收集个人信息的授权",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 557.5933837890625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "同意，必要时核验其实现的方式；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 573.0387573242188,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "f) 应要求第三方产品或服务建立响应个人信息主体请求和投诉等的机制，以供个",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 588.7933349609375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "人信息主体查询、使用；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 604.23876953125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "g) 应监督第三方产品或服务提供者加强个人信息安全管理，发现第三方产品或服",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 620.3466186523438,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "务没有落实安全管理要求和责任的，应及时督促整改，必要时停止接入；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 635.4387817382812,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "h) 产品或服务嵌入或接入第三方自动化工具（如代码、脚本、接口、算法模型、",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 651.223388671875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "软件开发工具包、小程序等）的，宜采取以下措施：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 666.6687622070312,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "1) 开展技术检测确保其个人信息收集、使用行为符合约定要求；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 682.268798828125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "2) 对第三方嵌入或接入的自动化工具收集个人信息的行为进行审计，发现超",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 698.0233154296875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "出约定的行为，及时切断接入。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 722.0689697265625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "9.8 个人信息跨境传输",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 782.39697265625,
+      "size": 9.0,
+      "bold": false,
+      "text": "18",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 0,
+  "raw_line_count": 42,
+  "line_count": 42,
+  "is_blank": false
+}

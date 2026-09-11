@@ -1,0 +1,429 @@
+{
+  "page": 22,
+  "lines": [
+    {
+      "y": 42.98099899291992,
+      "size": 9.0,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 73.76881408691406,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 应任命个人信息保护负责人和个人信息保护工作机构，个人信息保护负责人应",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 89.89664459228516,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "由具有相关管理工作经历和个人信息保护专业知识的人员担任，参与有关个人",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 105.14334106445312,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "信息处理活动的重要决策直接向组织主要负责人报告工作；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 120.58876037597656,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 满足以下条件之一的组织，应设立专职的个人信息保护负责人和个人信息保护",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 136.34335327148438,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "工作机构，负责个人信息安全工作：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 151.7887725830078,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "1) 主要业务涉及个人信息处理，且从业人员规模大于200人；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 167.38880920410156,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "2) 处理超过100万人的个人信息，或预计在12个月内处理超过100万人的个人",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 183.14334106445312,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "信息；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 198.58876037597656,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "3) 处理超过10万人的个人敏感信息的。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 214.1887969970703,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "d) 个人信息保护负责人和个人信息保护工作机构的职责应包括但不限于：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 229.7887725830078,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "1) 全面统筹实施组织内部的个人信息安全工作，对个人信息安全负直接责",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 245.54336547851562,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "任；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 260.98876953125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "2) 组织制定个人信息保护工作计划并督促落实；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 276.6187744140625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "3) 制定、签发、实施、定期更新个人信息保护政策和相关规程；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 292.21875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "4) 建立、维护和更新组织所持有的个人信息清单（包括个人信息的类型、数",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 307.9733581542969,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "量、来源、接收方等）和授权访问策略；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 323.41876220703125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "5) 开展个人信息安全影响评估，提出个人信息保护的对策建议，督促整改安",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 339.17333984375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "全隐患；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 354.6187744140625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "6) 组织开展个人信息安全培训；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 370.2187805175781,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "7) 在产品或服务上线发布前进行检测，避免未知的个人信息收集、使用、共",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 385.9733581542969,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "享等处理行为；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 401.41876220703125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "8) 公布投诉、举报方式等信息并及时受理投诉举报；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 417.0187683105469,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "9) 进行安全审计；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 432.6187744140625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "10) 与监督、管理部门保持沟通，通报或报告个人信息保护和事件处置等情况。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 448.2187805175781,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "e) 应为个人信息保护负责人和个人信息保护工作机构提供必要的资源，保障其独",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 463.99334716796875,
+      "size": 11.039999961853027,
+      "bold": true,
+      "text": "立履行职责。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 488.0389404296875,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "11.2 个人信息安全工程",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 511.1466369628906,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "开发具有处理个人信息功能的产品或服务时，个人信息控制者宜根据国家有关标准",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 526.7466430664062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "在需求、设计、开发、测试、发布等系统工程阶段考虑个人信息保护要求，保证在系统",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 542.3466186523438,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "建设时对个人信息保护措施同步规划、同步建设和同步使用。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 566.0389404296875,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "11.3 个人信息处理活动记录",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 589.1466674804688,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息控制者宜建立、维护和更新所收集、使用的个人信息处理活动记录，记录",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 604.7466430664062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "的内容可包括：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 619.8387451171875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a） 所涉及个人信息的类型、数量、来源（如从个人信息主体直接收集或通过间接",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 635.9466552734375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "获取方式获得）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 651.0687866210938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b） 根据业务功能和授权情况区分个人信息的处理目的、使用场景，以及委托处理、",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 667.1766357421875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "共享、转让、公开披露、是否涉及出境等情况；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 682.268798828125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c） 与个人信息处理活动各环节相关的信息系统、组织或人员。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 706.4689331054688,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "11.4 开展个人信息安全影响评估",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 729.57666015625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "对个人信息控制者的要求包括：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 782.39697265625,
+      "size": 9.0,
+      "bold": false,
+      "text": "20",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 0,
+  "raw_line_count": 42,
+  "line_count": 42,
+  "is_blank": false
+}

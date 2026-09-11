@@ -1,0 +1,319 @@
+{
+  "page": 5,
+  "lines": [
+    {
+      "y": 72.0710220336914,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 132.739990234375,
+      "size": null,
+      "bold": null,
+      "text": "前  言",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 188.66336059570312,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本标准按照GB/T 1.1—2009给出的规则起草。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 204.61660766601562,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本标准代替GB/T 35273-2017《信息安全技术个人信息安全规范》，与GB/T 35273-2017相比，",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 220.21664428710938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "主要技术变化如下：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 235.46334838867188,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——增加了“多项业务功能的自主选择”（见5.3）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 251.06332397460938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——修改了“征得授权同意的例外”（见5.6，2017年版的5.4）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 266.6633605957031,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——增加了“用户画像的使用限制”（见7.4）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 282.2933654785156,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——增加了“个性化展示的使用”（见7.5）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 297.8933410644531,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——增加了“基于不同业务目所收集个人信息的汇聚融合”（见7.6）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 313.4933166503906,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——修改了“个人信息主体注销账户”（见8.5，2017年版的7.8）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 329.0933532714844,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——增加了“第三方接入管理”（见9.7）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 344.6933288574219,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——修改了“明确责任部门与人员”（见11.1，2017年版的10.1）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 360.2933349609375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——增加了“个人信息安全工程”（见11.2）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 375.8933410644531,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——增加了“个人信息处理活动记录”（见11.3）；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 391.49334716796875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——修改了“实现个人信息主体自主意愿的方法”（见附录C，2017年版的附录C）。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 407.4466247558594,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "请注意本文件的某些内容可能涉及专利。本文件的发布机构不承担识别这些专利的责任。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 423.0466003417969,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本标准由全国信息安全标准化技术委员会（SAC/TC260）提出并归口。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 438.6466064453125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本标准起草单位：中国电子技术标准化研究院、北京信息安全测评中心、颐信科技有限公司、",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 454.2466125488281,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "四川大学、清华大学、中国信息通信研究院、公安部第一研究所、中国网络安全审查技术与认证中",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 469.8666076660156,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "心、深圳腾讯计算机系统有限公司、上海国际问题研究院、阿里巴巴（北京）软件服务有限公司、",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 485.46661376953125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "中电长城网际系统应用有限公司、阿里云计算有限公司、华为技术有限公司、强韵数据科技有限公",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 501.0666198730469,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "司。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 516.6666870117188,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本标准主要起草人：洪延青、何延哲、杨建军、钱秀槟、陈兴蜀、刘贤刚、上官晓丽、高林、",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 532.2666625976562,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "邵正强、金涛、胡影、赵冉冉、韩煜、陈湉、高磊、张晓梅、张志强、葛鑫、周晨炜、秦小伟、邵",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 547.8666381835938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "华、蔡晓丹、黄晓林、顾伟、黄劲、李媛、许静慧、赵章界、孔耀晖、范红、杜跃进、杨思磊、张",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 563.4666137695312,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "亚男、叶晓俊、郑斌、闵京华、鲁传颖、周亚超、杨露、王海舟、王建民、秦颂、姚相振、葛小宇、",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 579.066650390625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "王道奎、沈锡镛。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 594.6666259765625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本标准所代替标准的历次版本发布情况为：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 609.913330078125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "——GB/T 35273-2017。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 774.8849487304688,
+      "size": 9.0,
+      "bold": false,
+      "text": "III",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 1,
+  "raw_line_count": 30,
+  "line_count": 30,
+  "is_blank": false
+}

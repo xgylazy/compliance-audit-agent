@@ -1,0 +1,109 @@
+{
+  "page": 32,
+  "lines": [
+    {
+      "y": 42.98099899291992,
+      "size": 9.0,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 105.01995849609375,
+      "size": null,
+      "bold": null,
+      "text": "附 录 D",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 105.01995849609375,
+      "size": null,
+      "bold": null,
+      "text": "（资料性附录）",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 105.01995849609375,
+      "size": null,
+      "bold": null,
+      "text": "个人信息保护政策模板",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 167.05661010742188,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "发布个人信息保护政策是个人信息控制者遵循公开透明原则的重要体现，是保证个",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 182.65658569335938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "人信息主体知情权的重要手段，还是约束自身行为和配合监督管理的重要机制。个人信",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 198.25662231445312,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "息保护政策应清晰、准确、完整地描述个人信息控制者的个人信息处理行为。个人信息",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 213.85659790039062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "保护政策模板示例见表D.1。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 237.25662231445312,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "表D.1 个人信息保护政策模板",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 782.39697265625,
+      "size": 9.0,
+      "bold": false,
+      "text": "30",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 1,
+  "raw_line_count": 7,
+  "line_count": 7,
+  "is_blank": false
+}

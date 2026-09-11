@@ -1,0 +1,163 @@
+{
+  "page": 3,
+  "content_types": [
+    "table_of_contents"
+  ],
+  "table_of_contents": {
+    "items": [
+      {
+        "title": "前言",
+        "children": []
+      },
+      {
+        "title": "引言",
+        "children": []
+      },
+      {
+        "title": "1 范围",
+        "children": []
+      },
+      {
+        "title": "2 规范性引用文件",
+        "children": []
+      },
+      {
+        "title": "3 术语和定义",
+        "children": []
+      },
+      {
+        "title": "4 个人信息安全基本原则",
+        "children": []
+      },
+      {
+        "title": "5 个人信息的收集",
+        "children": [
+          {
+            "title": "5.1 收集个人信息的合法性",
+            "children": []
+          },
+          {
+            "title": "5.2 收集个人信息的最小必要",
+            "children": []
+          },
+          {
+            "title": "5.3 多项业务功能的自主选择",
+            "children": []
+          },
+          {
+            "title": "5.4 收集个人信息时的授权同意",
+            "children": []
+          },
+          {
+            "title": "5.5 个人信息保护政策",
+            "children": []
+          },
+          {
+            "title": "5.6 征得授权同意的例外",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "6 个人信息的存储",
+        "children": [
+          {
+            "title": "6.1 个人信息存储时间最小化",
+            "children": []
+          },
+          {
+            "title": "6.2 去标识化处理",
+            "children": []
+          },
+          {
+            "title": "6.3 个人敏感信息的传输和存储",
+            "children": []
+          },
+          {
+            "title": "6.4 个人信息控制者停止运营",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "7 个人信息的使用",
+        "children": [
+          {
+            "title": "7.1 个人信息访问控制措施",
+            "children": []
+          },
+          {
+            "title": "7.2 个人信息的展示限制",
+            "children": []
+          },
+          {
+            "title": "7.3 个人信息使用的目的限制",
+            "children": []
+          },
+          {
+            "title": "7.4 用户画像的使用限制",
+            "children": []
+          },
+          {
+            "title": "7.5 个性化展示的使用",
+            "children": []
+          },
+          {
+            "title": "7.6 基于不同业务目的所收集的个人信息的汇聚融合",
+            "children": []
+          },
+          {
+            "title": "7.7 信息系统自动决策机制的使用",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "8 个人信息主体的权利",
+        "children": [
+          {
+            "title": "8.1 个人信息查询",
+            "children": []
+          },
+          {
+            "title": "8.2 个人信息更正",
+            "children": []
+          },
+          {
+            "title": "8.3 个人信息删除",
+            "children": []
+          },
+          {
+            "title": "8.4 个人信息主体撤回授权同意",
+            "children": []
+          },
+          {
+            "title": "8.5 个人信息主体注销账户",
+            "children": []
+          },
+          {
+            "title": "8.6 个人信息主体获取个人信息副本",
+            "children": []
+          },
+          {
+            "title": "8.7 响应个人信息主体的请求",
+            "children": []
+          },
+          {
+            "title": "8.8 投诉管理",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "9 个人信息的委托处理、共享、转让、公开披露",
+        "children": [
+          {
+            "title": "9.1 委托处理",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "page": 24,
+  "lines": [
+    {
+      "y": 42.98099899291992,
+      "size": 9.0,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 73.76881408691406,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 应对个人信息保护政策、相关规程和安全措施的有效性进行审计；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 89.38880920410156,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 应建立自动化审计系统，监测记录个人信息处理活动；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 104.98878479003906,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 审计过程形成的记录应能对安全事件的处置、应急响应和事后调查提供支撑；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 120.58876037597656,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "d) 应防止非授权访问、篡改或删除审计记录；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 136.1887969970703,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "e) 应及时处理审计过程中发现的个人信息违规使用、滥用等情况；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 151.7887725830078,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "f) 审计记录和留存时间应符合法律法规的要求。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 782.39697265625,
+      "size": 9.0,
+      "bold": false,
+      "text": "22",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 0,
+  "raw_line_count": 8,
+  "line_count": 8,
+  "is_blank": false
+}

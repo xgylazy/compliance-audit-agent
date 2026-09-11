@@ -1,0 +1,369 @@
+{
+  "page": 9,
+  "lines": [
+    {
+      "y": 43.751014709472656,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 74.56890869140625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.10",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 90.18896484375,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "删除 delete",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 113.2966079711914,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "在实现日常业务功能所涉及的系统中去除个人信息的行为，使其保持不可被检索、",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 127.3399658203125,
+      "size": null,
+      "bold": null,
+      "text": "访问的状态。",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 152.58892822265625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.11",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 168.18896484375,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "公开披露 public disclosure",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 191.29660034179688,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "向社会或不特定人群发布信息的行为。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 214.98895263671875,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.12",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 230.58892822265625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "转让 transfer of control",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 253.69662475585938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "将个人信息控制权由一个控制者向另一个控制者转移的过程。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 277.4189453125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.13",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 293.0189208984375,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "共享 sharing",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 316.1266174316406,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息控制者向其他控制者提供个人信息，且双方分别对个人信息拥有独立控制",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 331.72662353515625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "权的过程。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 355.4189453125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.14",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 371.0189514160156,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "匿名化 anonymization",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 394.1266174316406,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "通过对个人信息的技术处理，使得个人信息主体无法被识别或者关联，且处理后的",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 408.16998291015625,
+      "size": null,
+      "bold": null,
+      "text": "信息不能被复原的过程。",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 408.16998291015625,
+      "size": null,
+      "bold": null,
+      "text": "注：个人信息经匿名化处理后所得的信息不属于个人信息。",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 449.0189514160156,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.15",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 464.6389465332031,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "去标识化 de-identification",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 487.7466125488281,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "通过对个人信息的技术处理，使其在不借助额外信息的情况下，无法识别或者关联",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 503.3465881347656,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息主体的过程。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 519.9789428710938,
+      "size": 9.0,
+      "bold": false,
+      "text": "注：去标识化建立在个体基础之上，保留了个体颗粒度，采用假名、加密、哈希函数等技术手段替代",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 535.291015625,
+      "size": 9.0,
+      "bold": false,
+      "text": "对个人信息的标识。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 558.2389526367188,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.16",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 573.8389282226562,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "个性化展示 personalized display",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 597.2009887695312,
+      "size": null,
+      "bold": null,
+      "text": "基于特定个人信息主体的网络浏览历史、兴趣爱好、消费记录和习惯等个人信息，",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 612.546630859375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "向该个人信息主体展示信息内容、提供商品或服务的搜索结果等活动。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 636.2389526367188,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.17",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 651.8689575195312,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "业务功能 business function",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 674.9766235351562,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "满足个人信息主体的具体使用需求的服务类型。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 691.6089477539062,
+      "size": 9.0,
+      "bold": false,
+      "text": "注：如地图导航、网络约车、即时通讯、网络社区、网络支付、新闻资讯、网上购物、快递配送、交",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 706.9210205078125,
+      "size": 9.0,
+      "bold": false,
+      "text": "通票务等。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 781.9649658203125,
+      "size": 9.0,
+      "bold": false,
+      "text": "7",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 3,
+  "raw_line_count": 32,
+  "line_count": 32,
+  "is_blank": false
+}

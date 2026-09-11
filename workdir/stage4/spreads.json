@@ -1,0 +1,10 @@
+[
+  {
+    "title": "3.2",
+    "pages": [
+      7,
+      8
+    ],
+    "merge_rule": "text_direct_concat + pages_union"
+  }
+]

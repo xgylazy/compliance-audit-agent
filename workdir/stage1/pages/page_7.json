@@ -1,0 +1,369 @@
+{
+  "page": 7,
+  "lines": [
+    {
+      "y": 43.751014709472656,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 104.05999755859375,
+      "size": null,
+      "bold": null,
+      "text": "信息安全技术 个人信息安全规范",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 157.62896728515625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "1 范围",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 188.53659057617188,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本标准规定了开展收集、存储、使用、共享、转让、公开披露、删除等个人信息处",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 204.13662719726562,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "理活动应遵循的原则和安全要求。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 219.73660278320312,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本标准适用于规范各类组织的个人信息处理活动，也适用于主管监管部门、第三方",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 235.33663940429688,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "评估机构等组织对个人信息处理活动进行监督、管理和评估。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 266.82891845703125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "2 规范性引用文件",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 297.7666320800781,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 313.3666076660156,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 328.96661376953125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "本文件。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 344.2133483886719,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "GB/T 25069—2010 信息安全技术 术语",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 376.0589294433594,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3 术语和定义",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 406.61334228515625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "GB/T 25069—2010界定的以及下列术语和定义适用于本文件。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 430.658935546875,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.1",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 446.2589416503906,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "个人信息 personal information",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 469.3866271972656,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 484.9866027832031,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "者反映特定自然人活动情况的各种信息。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 501.6189880371094,
+      "size": 9.0,
+      "bold": false,
+      "text": "注1：个人信息包括姓名、出生日期、身份证件号码、个人生物识别信息、住址、通信通讯联系方式、",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 517.2189331054688,
+      "size": 9.0,
+      "bold": false,
+      "text": "通信记录和内容、账号密码、财产信息、征信信息、行踪轨迹、住宿信息、健康生理信息、交",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 532.5971069335938,
+      "size": 10.5,
+      "bold": false,
+      "text": "如何识别个人信息？",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 532.8189697265625,
+      "size": 9.0,
+      "bold": false,
+      "text": "易信息等。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 543.0866088867188,
+      "size": 10.5,
+      "bold": false,
+      "text": "界面、通信录、位置",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 548.1310424804688,
+      "size": 9.0,
+      "bold": false,
+      "text": "注2：关于个人信息的判定方法和类型参见附录A。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 564.2259521484375,
+      "size": null,
+      "bold": null,
+      "text": "注3：个人信息控制者通过个人信息或其他信息加工处理后形成的信息，例如，用户画像或特征标签，",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 564.2259521484375,
+      "size": null,
+      "bold": null,
+      "text": "能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的，属于个人",
+      "src": "figure",
+      "role": "figure_text",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 594.9309692382812,
+      "size": 9.0,
+      "bold": false,
+      "text": "信息。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 617.87890625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.2",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 633.4789428710938,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "个人敏感信息 personal sensitive information",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 0.5
+    },
+    {
+      "y": 656.6166381835938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 688.8489379882812,
+      "size": 9.0,
+      "bold": false,
+      "text": "注1：个人敏感信息包括身份证件号码、个人生物识别信息、银行账户、通信记录和内容、财产信息、",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 704.448974609375,
+      "size": 9.0,
+      "bold": false,
+      "text": "征信信息、行踪轨迹、住宿信息、健康生理信息、交易信息、14 岁以下（含）儿童的个人信息",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 720.0489501953125,
+      "size": 9.0,
+      "bold": false,
+      "text": "等。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 735.3569946289062,
+      "size": 9.0,
+      "bold": false,
+      "text": "注2：关于个人敏感信息的判定方法和类型参见附录B。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 751.2449340820312,
+      "size": 9.0,
+      "bold": false,
+      "text": "注3：个人信息控制者通过个人信息或其他信息加工处理后形成的信息，如一旦泄露、非法提供或滥",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 781.9649658203125,
+      "size": 9.0,
+      "bold": false,
+      "text": "5",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 2,
+  "raw_line_count": 33,
+  "line_count": 33,
+  "is_blank": false
+}

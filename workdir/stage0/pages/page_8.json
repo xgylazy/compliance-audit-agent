@@ -1,0 +1,313 @@
+{
+  "page": 8,
+  "lines": [
+    {
+      "y": 42.98099899291992,
+      "size": 9.0,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header"
+    },
+    {
+      "y": 75.30897521972656,
+      "size": 9.0,
+      "bold": false,
+      "text": "用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇等的，属于",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 90.64097595214844,
+      "size": 9.0,
+      "bold": false,
+      "text": "个人敏感信息。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 113.58892822265625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.3",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 129.18896484375,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "个人信息主体 personal information subject",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 152.29660034179688,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息所标识或者关联的自然人。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 175.98895263671875,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.4",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 191.58892822265625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "个人信息控制者 personal information controller",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 214.69662475585938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "有能力决定个人信息处理目的、方式等的组织或个人。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 238.388916015625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.5",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 253.98895263671875,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "收集 collect",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 277.1266174316406,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "获得个人信息的控制权的行为。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 293.7590026855469,
+      "size": 9.0,
+      "bold": false,
+      "text": "注1：包括由个人信息主体主动提供、通过与个人信息主体交互或记录个人信息主体行为等自动采集",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 309.0709533691406,
+      "size": 9.0,
+      "bold": false,
+      "text": "行为，以及通过共享、转让、搜集公开信息等间接获取个人信息等行为。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 324.958984375,
+      "size": 9.0,
+      "bold": false,
+      "text": "注2：如果产品或服务的提供者提供工具供个人信息主体使用，提供者不对个人信息进行访问的，则",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 340.5589904785156,
+      "size": 9.0,
+      "bold": false,
+      "text": "不属于本标准所称的收集。例如，离线导航软件在终端获取个人信息主体位置信息后，如果不",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 355.8709716796875,
+      "size": 9.0,
+      "bold": false,
+      "text": "回传至软件提供者，则不属于个人信息主体位置信息的收集。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 378.8189392089844,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.6",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 394.4189453125,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "明示同意 explicit consent",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 417.526611328125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息主体通过书面、口头等方式主动作出纸质或电子形式的声明，或者自主作",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 433.1266174316406,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "出肯定性动作，对其个人信息进行特定处理作出明确授权的行为。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 449.9659729003906,
+      "size": null,
+      "bold": null,
+      "text": "注：肯定性动作包括个人信息主体主动勾选、主动点击“同意”“注册”“发送”“拨打”、主动填",
+      "src": "figure",
+      "role": "figure_text"
+    },
+    {
+      "y": 464.1099853515625,
+      "size": null,
+      "bold": null,
+      "text": "写或提供等。",
+      "src": "figure",
+      "role": "figure_text"
+    },
+    {
+      "y": 488.0389404296875,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.7",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 503.638916015625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "授权同意 consent",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 526.7466430664062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息主体对其个人信息进行特定处理作出明确授权的行为。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 543.3789672851562,
+      "size": 9.0,
+      "bold": false,
+      "text": "注：包括通过积极的行为作出授权（即明示同意），或者通过消极的不作为而作出授权（如信息采集",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 558.6909790039062,
+      "size": 9.0,
+      "bold": false,
+      "text": "区域内的个人信息主体在被告知信息收集行为后没有离开该区域）。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 581.638916015625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.8 用户画像 user profiling",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 604.7466430664062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "通过收集、汇聚、分析个人信息，对某特定自然人个人特征，如职业、经济、健康、",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 618.7899169921875,
+      "size": null,
+      "bold": null,
+      "text": "教育、个人喜好、信用、行为等方面作出分析或预测，形成其个人特征模型的过程。",
+      "src": "figure",
+      "role": "figure_text"
+    },
+    {
+      "y": 636.9789428710938,
+      "size": 9.0,
+      "bold": false,
+      "text": "注：直接使用特定自然人的个人信息，形成该自然人的特征模型，称为直接用户画像。使用来源于特",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 652.3209838867188,
+      "size": 9.0,
+      "bold": false,
+      "text": "定自然人以外的个人信息，如其所在群体的数据，形成该自然人的特征模型，称为间接用户画像。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 675.2689208984375,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "3.9",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 690.8689575195312,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "个人信息安全影响评估 personal information security impact assessment",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 714.2308959960938,
+      "size": null,
+      "bold": null,
+      "text": "针对个人信息处理活动，检验其合法合规程度，判断其对个人信息主体合法权益造",
+      "src": "figure",
+      "role": "figure_text"
+    },
+    {
+      "y": 729.57666015625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "成损害的各种风险，以及评估用于保护个人信息主体的各项措施有效性的过程。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 782.39697265625,
+      "size": 9.0,
+      "bold": false,
+      "text": "6",
+      "src": "line",
+      "role": "footer"
+    }
+  ],
+  "figures": 4,
+  "raw_line_count": 34,
+  "line_count": 34,
+  "is_blank": false
+}

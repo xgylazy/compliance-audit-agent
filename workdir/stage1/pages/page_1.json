@@ -1,0 +1,139 @@
+{
+  "page": 1,
+  "lines": [
+    {
+      "y": 74.0,
+      "size": null,
+      "bold": null,
+      "text": "ICS 35.040",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 108.0,
+      "size": null,
+      "bold": null,
+      "text": "L80",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 270.5,
+      "size": null,
+      "bold": null,
+      "text": "中华人民共和国国家标准",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 353.0,
+      "size": null,
+      "bold": null,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 391.0,
+      "size": null,
+      "bold": null,
+      "text": "代替 GB/T 35273-2017",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 697.0,
+      "size": null,
+      "bold": null,
+      "text": "信息安全技术",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 697.0,
+      "size": null,
+      "bold": null,
+      "text": "个人信息安全规范",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 791.0,
+      "size": null,
+      "bold": null,
+      "text": "Information security technology — Personal information security specification",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1503.0,
+      "size": null,
+      "bold": null,
+      "text": "2020-10-01 实施",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1504.0,
+      "size": null,
+      "bold": null,
+      "text": "2020-03-06 发布",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1559.5,
+      "size": null,
+      "bold": null,
+      "text": "国家市场监督管理总局",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1588.5,
+      "size": null,
+      "bold": null,
+      "text": "发布",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 1599.5,
+      "size": null,
+      "bold": null,
+      "text": "国家标准化管理委员会",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 0,
+  "raw_line_count": 13,
+  "line_count": 13,
+  "is_blank": false
+}

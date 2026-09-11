@@ -1,0 +1,13 @@
+{
+  "total_pages": 40,
+  "blank_pages": [
+    2
+  ],
+  "header_band": 0.1395,
+  "footer_band": 0.9,
+  "calibration_samples": {
+    "header": 39,
+    "footer": 38
+  },
+  "figure_text_lines": 27
+}

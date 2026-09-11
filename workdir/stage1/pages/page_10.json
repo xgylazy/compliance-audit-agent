@@ -1,0 +1,419 @@
+{
+  "page": 10,
+  "lines": [
+    {
+      "y": 42.98099899291992,
+      "size": 9.0,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 74.56890869140625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "4 个人信息安全基本原则",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 105.49662017822266,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息控制者开展个人信息处理活动应遵循合法、正当、必要的原则，具体包括：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 120.58876037597656,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 权责一致——采取技术和其他必要的措施保障个人信息的安全，对其个人信息",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 136.34335327148438,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "处理活动对个人信息主体合法权益造成的损害承担责任；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 151.7887725830078,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 目的明确——具有明确、清晰、具体的个人信息处理目的；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 167.38880920410156,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 选择同意——向个人信息主体明示个人信息处理目的、方式、范围等规则，征",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 183.14334106445312,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "求其授权同意；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 198.58876037597656,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "d) 最小必要——只处理满足个人信息主体授权同意的目的所需的最少个人信息",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 214.34335327148438,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "类型和数量。目的达成后，应及时删除个人信息；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 229.7887725830078,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "e) 公开透明——以明确、易懂和合理的方式公开处理个人信息的范围、目的、规",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 245.54336547851562,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "则等，并接受外部监督；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 260.98876953125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "f) 确保安全——具备与所面临的安全风险相匹配的安全能力，并采取足够的管理",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 276.7733459472656,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "措施和技术手段，保护个人信息的保密性、完整性、可用性；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 292.21875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "g) 主体参与——向个人信息主体提供能够查询、更正、删除其个人信息，以及撤",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 307.9733581542969,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "回授权同意、注销账户、投诉等方法。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 339.8189392089844,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "5 个人信息的收集",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 371.0189514160156,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "5.1 收集个人信息的合法性",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 394.1266174316406,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "对个人信息控制者的要求包括：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 409.2187805175781,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 不应以欺诈、诱骗、误导的方式收集个人信息；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 424.81878662109375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 不应隐瞒产品或服务所具有的收集个人信息的功能；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 440.41876220703125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 不应从非法渠道获取个人信息。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 464.6389465332031,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "5.2 收集个人信息的最小必要",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 487.7466125488281,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "对个人信息控制者的要求包括：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 502.8387451171875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 收集的个人信息的类型应与实现产品或服务的业务功能有直接关联；直接关联",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 518.5933837890625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "是指没有上述个人信息的参与，产品或服务的功能无法实现；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 534.0387573242188,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 自动采集个人信息的频率应是实现产品或服务的业务功能所必需的最低频率；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 549.6387939453125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 间接获取个人信息的数量应是实现产品或服务的业务功能所必需的最少数量。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 573.8389282226562,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "5.3 多项业务功能的自主选择",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 596.9466552734375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "当产品或服务提供多项需收集个人信息的业务功能时，个人信息控制者不应违背个",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 612.546630859375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "人信息主体的自主意愿，强迫个人信息主体接受产品或服务所提供的业务功能及相应的",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 628.1466674804688,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息收集请求。对个人信息控制者的要求包括：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 643.23876953125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 不应通过捆绑产品或服务各项业务功能的方式，要求个人信息主体一次性接受",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 659.0233154296875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "并授权同意其未申请或使用的业务功能收集个人信息的请求；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 674.46875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 应把个人信息主体自主作出的肯定性动作，如主动点击、勾选、填写等，作为",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 690.57666015625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "产品或服务的特定业务功能的开启条件。个人信息控制者应仅在个人信息主体",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 705.8233642578125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "开启该业务功能后，开始收集个人信息；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 721.268798828125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 关闭或退出业务功能的途径或方式应与个人信息主体选择使用业务功能的途",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 737.3726196289062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "径或方式同样方便。个人信息主体选择关闭或退出特定业务功能后，个人信息",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 752.619384765625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "控制者应停止该业务功能的个人信息收集活动；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 782.39697265625,
+      "size": 9.0,
+      "bold": false,
+      "text": "8",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 0,
+  "raw_line_count": 41,
+  "line_count": 41,
+  "is_blank": false
+}

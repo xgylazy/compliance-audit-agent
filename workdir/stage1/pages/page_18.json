@@ -1,0 +1,429 @@
+{
+  "page": 18,
+  "lines": [
+    {
+      "y": 42.98099899291992,
+      "size": 9.0,
+      "bold": false,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 74.27664947509766,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息控制者应建立投诉管理机制和投诉跟踪流程，并在合理的时间内对投诉进",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 89.89664459228516,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "行响应。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 121.388916015625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "9 个人信息的委托处理、共享、转让、公开披露",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 152.58892822265625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "9.1 委托处理",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 175.69662475585938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息控制者委托第三方处理个人信息时，应符合以下要求：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 190.7887725830078,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 个人信息控制者作出委托行为，不应超出已征得个人信息主体授权同意的范围",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 206.54336547851562,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "或应遵守5.6所列情形；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 221.98878479003906,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 个人信息控制者应对委托行为进行个人信息安全影响评估，确保受委托者达到",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 237.74331665039062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "11.5的数据安全能力要求；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 253.1887969970703,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 受委托者应：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 268.78875732421875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "1) 严格按照个人信息控制者的要求处理个人信息。受委托者因特殊原因未按",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 284.9266052246094,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "照个人信息控制者的要求处理个人信息的，应及时向个人信息控制者反",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 300.1733703613281,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "馈；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 315.6187744140625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "2) 受委托者确需再次委托时，应事先征得个人信息控制者的授权；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 331.2187805175781,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "3) 协助个人信息控制者响应个人信息主体基于8.1~8.6提出的请求；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 346.81878662109375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "4) 受委托者在处理个人信息过程中无法提供足够的安全保护水平或发生了",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 362.5733337402344,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "安全事件的，应及时向个人信息控制者反馈；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 378.0187683105469,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "5) 在委托关系解除时不再存储相关个人信息。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 393.6187744140625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "d) 个人信息控制者应对受委托者进行监督，方式包括但不限于：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 409.2187805175781,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "1) 通过合同等方式规定受委托者的责任和义务；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 424.81878662109375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "2) 对受委托者进行审计。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 440.41876220703125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "e) 个人信息控制者应准确记录和存储委托处理个人信息的情况；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 456.0187683105469,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "f) 个人信息控制者得知或者发现受委托者未按照委托要求处理个人信息，或未能",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 472.1466064453125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "有效履行个人信息安全保护责任的，应立即要求受托者停止相关行为，且采取",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 487.7466125488281,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "或要求受委托者采取有效补救措施（如更改口令、回收权限、断开网络连接等）",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 503.3465881347656,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "控制或消除个人信息面临的安全风险。必要时个人信息控制者应终止与受委托",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 518.5933837890625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "者的业务关系，并要求受委托者及时删除从个人信息控制者获得的个人信息。",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 542.638916015625,
+      "size": 10.5600004196167,
+      "bold": false,
+      "text": "9.2 个人信息共享、转让",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": true,
+      "heading_score": 1.0
+    },
+    {
+      "y": 565.7466430664062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息控制者共享、转让个人信息时，应充分重视风险。共享、转让个人信息，",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 581.3466186523438,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "非因收购、兼并、重组、破产原因的，应符合以下要求：",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 596.4387817382812,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "a) 事先开展个人信息安全影响评估，并依评估结果采取有效的保护个人信息主体",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 612.193359375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "的措施；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 627.6387939453125,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "b) 向个人信息主体告知共享、转让个人信息的目的、数据接收方的类型以及可能",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 643.7466430664062,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "产生的后果，并事先征得个人信息主体的授权同意。共享、转让经去标识化处",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 659.3766479492188,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "理的个人信息，且确保数据接收方无法重新识别或者关联个人信息主体的除",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 674.623291015625,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "外；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 690.0687866210938,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "c) 共享、转让个人敏感信息前，除 b）中告知的内容外，还应向个人信息主体告",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 706.1766357421875,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "知涉及的个人敏感信息类型、数据接收方的身份和数据安全能力，并事先征得",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 721.42333984375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "个人信息主体的明示同意；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 736.86474609375,
+      "size": 11.039999961853027,
+      "bold": false,
+      "text": "d) 通过合同等方式规定数据接收方的责任和义务；",
+      "src": "line",
+      "role": "body",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    },
+    {
+      "y": 782.39697265625,
+      "size": 9.0,
+      "bold": false,
+      "text": "16",
+      "src": "line",
+      "role": "footer",
+      "heading_candidate": false,
+      "heading_score": 0.0
+    }
+  ],
+  "figures": 0,
+  "raw_line_count": 42,
+  "line_count": 42,
+  "is_blank": false
+}

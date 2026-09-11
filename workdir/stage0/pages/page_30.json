@@ -1,0 +1,625 @@
+{
+  "page": 30,
+  "lines": [
+    {
+      "y": 99.5,
+      "size": null,
+      "bold": null,
+      "text": "GB/T 35273—2020",
+      "src": "line",
+      "role": "header"
+    },
+    {
+      "y": 189.0,
+      "size": null,
+      "bold": null,
+      "text": "表C.1 （续）",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 251.0,
+      "size": null,
+      "bold": null,
+      "text": "功能界面模板",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 251.5,
+      "size": null,
+      "bold": null,
+      "text": "说明",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 285.5,
+      "size": null,
+      "bold": null,
+      "text": "6、扩展业务功能是基本",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 309.5,
+      "size": null,
+      "bold": null,
+      "text": "页面二：扩展业务功能收集的个人信息说明",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 310.5,
+      "size": null,
+      "bold": null,
+      "text": "业务功能之外的其他功",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 334.5,
+      "size": null,
+      "bold": null,
+      "text": "能，常见的扩展业务功",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 352.0,
+      "size": null,
+      "bold": null,
+      "text": "x",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 358.5,
+      "size": null,
+      "bold": null,
+      "text": "能如：基本业务功能基",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 383.5,
+      "size": null,
+      "bold": null,
+      "text": "础上的一些衍生服务或",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 401.0,
+      "size": null,
+      "bold": null,
+      "text": "↑",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 407.5,
+      "size": null,
+      "bold": null,
+      "text": "新型业务、提高产品或",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 428.0,
+      "size": null,
+      "bold": null,
+      "text": "本产品（或服务）还提供扩展业务功能，为使用这些功能，您需要提供或同意我们收",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 431.5,
+      "size": null,
+      "bold": null,
+      "text": "服务的使用体验的附加",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 444.5,
+      "size": null,
+      "bold": null,
+      "text": "集、使用以下这些个人信息。如果您拒绝，将导致这些功能无法实现，但不影响您使用",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 456.0,
+      "size": null,
+      "bold": null,
+      "text": "功能（如语音识别、图",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 460.0,
+      "size": null,
+      "bold": null,
+      "text": "本产品（或服务）的基本业务功能。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 480.5,
+      "size": null,
+      "bold": null,
+      "text": "片识别、地理定位等）、",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 497.0,
+      "size": null,
+      "bold": null,
+      "text": "【赋值：个人信息控制者定义的附加业务功能及对扩展业务功能的描述】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 504.5,
+      "size": null,
+      "bold": null,
+      "text": "提升产品或服务的安全",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 513.5,
+      "size": null,
+      "bold": null,
+      "text": "【赋值：个人信息控制者定义的附加业务功能及对扩展业务功能的描述】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 529.5,
+      "size": null,
+      "bold": null,
+      "text": "机制的扩展功能等（如",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 553.5,
+      "size": null,
+      "bold": null,
+      "text": "收集密保邮箱、指纹",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 560.5,
+      "size": null,
+      "bold": null,
+      "text": "一、为完成扩展业务功能所需，您需要填写以下个人信息：",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 577.0,
+      "size": null,
+      "bold": null,
+      "text": "等）。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 599.0,
+      "size": null,
+      "bold": null,
+      "text": "【赋值：个人信息控制者定",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 599.5,
+      "size": null,
+      "bold": null,
+      "text": "为实现【赋值：个人信息控制者定义的",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 607.5,
+      "size": null,
+      "bold": null,
+      "text": "文本输入框",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 615.0,
+      "size": null,
+      "bold": null,
+      "text": "义的个人信息名称】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 615.0,
+      "size": null,
+      "bold": null,
+      "text": "扩展业务功能】所必需，填写即表示同意。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 623.5,
+      "size": null,
+      "bold": null,
+      "text": "7、扩展业务功能一般具",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 638.0,
+      "size": null,
+      "bold": null,
+      "text": "为实现【赋值：个人信息控制者定义的",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 640.0,
+      "size": null,
+      "bold": null,
+      "text": "【赋值：个人信息控制者定",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 647.5,
+      "size": null,
+      "bold": null,
+      "text": "文本输入框",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 647.5,
+      "size": null,
+      "bold": null,
+      "text": "有可选择、可退订、不",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 652.5,
+      "size": null,
+      "bold": null,
+      "text": "扩展业务功能】所必需，填写即表示同意。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 655.0,
+      "size": null,
+      "bold": null,
+      "text": "义的个人信息名称】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 672.5,
+      "size": null,
+      "bold": null,
+      "text": "影响基本业务等特点，",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 696.5,
+      "size": null,
+      "bold": null,
+      "text": "个人信息控制者在识别",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 715.0,
+      "size": null,
+      "bold": null,
+      "text": "二、为完成扩展业务功能所需，我们还会自动收集以下个人信息：",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 721.0,
+      "size": null,
+      "bold": null,
+      "text": "扩展业务功能时需要充",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 741.0,
+      "size": null,
+      "bold": null,
+      "text": "为实现功能【赋值：个人信息控制者定义的",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 741.5,
+      "size": null,
+      "bold": null,
+      "text": "【赋值：个人信息控制者定",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 745.0,
+      "size": null,
+      "bold": null,
+      "text": "分分析其是否具备这些",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 757.0,
+      "size": null,
+      "bold": null,
+      "text": "义的个人信息名称】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 757.5,
+      "size": null,
+      "bold": null,
+      "text": "扩展业务功能】所必需，勾选表示同意。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 769.0,
+      "size": null,
+      "bold": null,
+      "text": "特点，不应将扩展业务",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 779.0,
+      "size": null,
+      "bold": null,
+      "text": "【赋值：个人信息控制者定",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 779.5,
+      "size": null,
+      "bold": null,
+      "text": "为实现功能【赋值：个人信息控制者定义的",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 793.5,
+      "size": null,
+      "bold": null,
+      "text": "功能等同于基本业务功",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 794.5,
+      "size": null,
+      "bold": null,
+      "text": "义的个人信息名称】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 794.5,
+      "size": null,
+      "bold": null,
+      "text": "扩展业务功能】所必需，勾选表示同意。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 818.5,
+      "size": null,
+      "bold": null,
+      "text": "能，强制收集个人信息。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 859.0,
+      "size": null,
+      "bold": null,
+      "text": "基于您以上做出的选择，除基本业务功能外，您将可以使用我们提供的【赋值：",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 864.5,
+      "size": null,
+      "bold": null,
+      "text": "8、在此页面中，综合个",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 875.0,
+      "size": null,
+      "bold": null,
+      "text": "个人信息控制者定义的扩展业务功能】、【赋值：个人信息控制者定义的扩展业",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 888.5,
+      "size": null,
+      "bold": null,
+      "text": "人信息主体主动填写的",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 891.5,
+      "size": null,
+      "bold": null,
+      "text": "务功能】",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 912.5,
+      "size": null,
+      "bold": null,
+      "text": "个人信息项和同意自动",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 932.0,
+      "size": null,
+      "bold": null,
+      "text": "您还可以在使用产品（或）服务的过程中，通过【赋值：个人信息控制者定义",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 936.5,
+      "size": null,
+      "bold": null,
+      "text": "采集的个人信息项，个",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 949.0,
+      "size": null,
+      "bold": null,
+      "text": "的操作步骤】访问该功能界面，并撤回对收集上述个人信息的同意授权。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 961.5,
+      "size": null,
+      "bold": null,
+      "text": "人信息控制者可即时展",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 986.0,
+      "size": null,
+      "bold": null,
+      "text": "示个人信息主体可使用",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1007.0,
+      "size": null,
+      "bold": null,
+      "text": "商业广告：我们可能会将您的个人信息用于向您推送您感兴趣的商业广告。您可以通过以下",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1010.0,
+      "size": null,
+      "bold": null,
+      "text": "的扩展功能。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1021.0,
+      "size": null,
+      "bold": null,
+      "text": "方式退订商业广告【赋值：个人信息控制者定义的操作】。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1055.0,
+      "size": null,
+      "bold": null,
+      "text": "9、个人信息控制者应告",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1072.5,
+      "size": null,
+      "bold": null,
+      "text": "上一页",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1072.5,
+      "size": null,
+      "bold": null,
+      "text": "下一页",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1073.0,
+      "size": null,
+      "bold": null,
+      "text": "取消",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1080.5,
+      "size": null,
+      "bold": null,
+      "text": "知个人信息主体再次访",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1104.5,
+      "size": null,
+      "bold": null,
+      "text": "问该功能界面的方法，",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1128.5,
+      "size": null,
+      "bold": null,
+      "text": "保障个人信息主体撤回",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1153.5,
+      "size": null,
+      "bold": null,
+      "text": "授权同意的权利。",
+      "src": "line",
+      "role": "body"
+    },
+    {
+      "y": 1640.0,
+      "size": null,
+      "bold": null,
+      "text": "28",
+      "src": "line",
+      "role": "footer"
+    }
+  ],
+  "figures": 0,
+  "raw_line_count": 77,
+  "line_count": 77,
+  "is_blank": false
+}
