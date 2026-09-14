@@ -36,8 +36,8 @@ def run(workdir=None) -> dict:
                           if ln["role"] == "body" and ln["size"])
 
     body_size = size_count.most_common(1)[0][0] if size_count else None
-    smaller = {s: c for s, c in size_count.items() if body_size and s < body_size - 0.05}
-    heading_size = max(smaller, key=smaller.get) if smaller else None
+    other = {s: c for s, c in size_count.items() if body_size and s != body_size}
+    heading_size = max(other, key=other.get) if other else None
 
     for n, p in raw.items():
         for ln in p["lines"]:
